@@ -1,14 +1,10 @@
-html {
-  background-color: black;
-}
-
-.mainBody {
-  background-color: black;
-}
+/*Global Body Styling */
 
 body {
   background-color: black;
 }
+
+/*Body Container Styling */
 
 @media (min-width: 1200px) {
   .container {
@@ -21,14 +17,6 @@ body {
   color: #ff8f44;
 }
 
-.card {
-  background-color: #ff8f44;
-}
-
-.navbar {
-  background-color: #6e8092;
-}
-
 .container {
   display: block;
 }
@@ -39,6 +27,7 @@ section {
 h5 {
   color: white;
 }
+
 hr {
   color: black;
   margin-left: auto;
@@ -47,4 +36,34 @@ hr {
 
 .sameLine {
   display: inline;
+}
+
+.purchaseButton {
+  background-color: #ff8f44;
+  border: 2px solid #ff8f44;
+}
+
+section {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/*NavBar Styling */
+
+.navbar {
+  background-color: #6e8092;
+}
+
+.navbar-nav {
+  padding-right: 5%;
+  margin-left: 1%;
+}
+
+.btn:hover {
+  background-color: rgb(180, 184, 187);
+  color: white;
+}
+
+.btn {
+  margin: 2px;
 }
