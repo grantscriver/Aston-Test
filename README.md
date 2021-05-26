@@ -1,6 +1,6 @@
-# Aston Test
+# HTML Test
 
-[GitHub Pages Deployment](https://grantscriver.github.io/Aston-Test/)
+[GitHub Pages Deployment](https://grantscriver.github.io/HTML-Test/)
 
 ![Aston Test site example](/assets/Aston-TestScreenshot.jpg)
 
