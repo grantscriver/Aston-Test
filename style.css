@@ -19,6 +19,8 @@ body {
 
 section {
   background-color: #ff8f44;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 h5 {
@@ -38,11 +40,6 @@ hr {
 .purchaseButton {
   background-color: #ff8f44;
   border: 2px solid #ff8f44;
-}
-
-section {
-  margin-left: 10px;
-  margin-right: 10px;
 }
 
 /*NavBar Styling */
