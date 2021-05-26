@@ -16,10 +16,6 @@ This website is a mock up of an assignment I was given by a Technology company. 
 
 Right now I am the only one who has contributed.
 
-## Test:
-
-No testing.
-
 ## Questions
 
 For more information you can visit my [Github](https://github.com/grantscriver)
