@@ -2,7 +2,7 @@
 
 [GitHub Pages Deployment](https://grantscriver.github.io/Aston-Test/)
 
-![Aston Test site example](.assets/Aston-TestScreenshot.jpg)
+![Aston Test site example](/assets/Aston-TestScreenshot.jpg)
 
 ## Description
 
