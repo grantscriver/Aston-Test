@@ -18,11 +18,11 @@ body {
 }
 
 .orangeFont {
-  color: orange;
+  color: #ff8f44;
 }
 
 .card {
-  background-color: orange;
+  background-color: #ff8f44;
 }
 
 .navbar {
@@ -31,4 +31,20 @@ body {
 
 .container {
   display: block;
+}
+
+section {
+  background-color: #ff8f44;
+}
+h5 {
+  color: white;
+}
+hr {
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sameLine {
+  display: inline;
 }
