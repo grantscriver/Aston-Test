@@ -28,3 +28,7 @@ body {
 .navbar {
   background-color: #6e8092;
 }
+
+.container {
+  display: block;
+}
