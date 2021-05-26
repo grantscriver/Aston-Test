@@ -6,7 +6,7 @@
 
 ## Description
 
-This website is a mock up of an assignment I was given by Aston Technologies. I was sent a PDF image and asked to replicate the image as closely as I possibly could using HTML & CSS.
+This website is a mock up of an assignment I was given by a Technology company. I was sent a PDF image and asked to replicate the image as closely as I possibly could using HTML & CSS. The design is mobile first and responsive.
 
 ## License:
 
