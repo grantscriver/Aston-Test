@@ -2,7 +2,7 @@
 
 [GitHub Pages Deployment](https://grantscriver.github.io/HTML-Test/)
 
-![Aston Test site example](/assets/HTMLtestscreenshot.png)
+![HTML Test site example](/assets/HTMLtestscreenshot.png)
 
 ## Description
 
